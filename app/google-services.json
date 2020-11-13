@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "711788581919",
+    "firebase_url": "https://yopha-9729d.firebaseio.com",
+    "project_id": "yopha-9729d",
+    "storage_bucket": "yopha-9729d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711788581919:android:3d1866d8845096a11af12a",
+        "android_client_info": {
+          "package_name": "com.example.yopha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "711788581919-aamk7c92tia2huafp66oecpt3tsbljdq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRtOr7bzfrxVsZNXb4BTYis_AgJmLp4jM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "711788581919-aamk7c92tia2huafp66oecpt3tsbljdq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

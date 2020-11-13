@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "515837220227",
+    "firebase_url": "https://yopha-863d1.firebaseio.com",
+    "project_id": "yopha-863d1",
+    "storage_bucket": "yopha-863d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515837220227:android:bc52a4b753ef270671d2b6",
+        "android_client_info": {
+          "package_name": "com.example.yopha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515837220227-8ilskeaefhg7jm9uf4hg9alvq9bo0898.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yopha",
+            "certificate_hash": "a4bc3973953ed43f109c11cb61ee5078b509aa7f"
+          }
+        },
+        {
+          "client_id": "515837220227-8qcjso393ljkmvfn3v1s9efnfioj79g5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yopha",
+            "certificate_hash": "4d161d1fc31f2a5fecc30333b494a49b1620b1c0"
+          }
+        },
+        {
+          "client_id": "515837220227-3hnbdhq529fc79hpsd8b7nmr52gbq5nt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoiRgu20bOkzUcliVfJfb9xe73XkwUBig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515837220227-3hnbdhq529fc79hpsd8b7nmr52gbq5nt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
